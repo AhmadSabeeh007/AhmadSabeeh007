@@ -1,4 +1,4 @@
-# Hi there, I'm [Ahmad Sabih] 👋
+# Hi there, I'm Ahmad Sabih 👋
 
 ### 🚀 Aspiring Machine Learning Engineer | Software Engineering Student
 
